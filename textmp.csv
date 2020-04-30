@@ -1,0 +1,176 @@
+Slider,x,first,second
+0,"Australia",23.28379,60
+0,"Austria",2.720513,160
+0,"Belgium",0,150
+0,"Brazil",0,400
+0,"Canada",139.264006,539
+0,"Chile",0,118
+0,"Colombia",0,260
+0,"Cyprus",0,890
+0,"Denmark",96.58594,105
+0,"France",360.323267,120
+0,"Germany",654.031054,10
+0,"Hungary",0,116
+0,"Iceland",0,20
+0,"India",10,3000
+0,"Ireland",0,31
+0,"Italy",0,900
+0,"Japan",1826.375443,300
+0,"Korea",0,2690
+0,"Kuwait",23.153412,10
+0,"Netherlands",352.628199,10
+0,"New Zealand",0,12
+0,"Norway",41.738095,45
+0,"Poland",0,75
+0,"Portugal",0,5
+0,"Romania",0,45
+0,"Saudi Arabia",112.421249,125
+0,"Spain",0,300
+0,"Sweden",10.679246,40
+0,"Switzerland",10.028652,10
+0,"Taiwan",0,370
+0,"Thailand",0,902.852253
+0,"United Arab Emirates",0,0.174742
+0,"United Kingdom",567.31147,399.202551
+0,"United States",6864.224034,0
+25,"Australia",6.929573,0.67
+25,"Austria",87.348212,0
+25,"Belgium",4.191839,0
+25,"Brazil",0,1150.188786
+25,"Canada",146.523445,0
+25,"Chile",0,624.81134
+25,"Colombia",0,835.091486
+25,"Cyprus",0,39.214175
+25,"Denmark",154.044569,0
+25,"France",212.486003,0
+25,"Germany",1590.619838,0
+25,"Hungary",0,36.819257
+25,"Iceland",0,31.296368
+25,"India",0,1837.835819
+25,"Ireland",164.182162,0
+25,"Italy",2525.82788,269.876498
+25,"Japan",0,907.605958
+25,"Korea",0,0.52441
+25,"Kuwait",75.285016,0
+25,"Netherlands",4.831732,0
+25,"New Zealand",85.932533,0
+25,"Norway",0,1014.259163
+25,"Poland",128.074768,35.529584
+25,"Portugal",123.90361,0
+25,"Romania",52.165585,0
+25,"Saudi Arabia",0,28.782961
+25,"Spain",0,1151.123605
+25,"Sweden",0,136.260119
+25,"Switzerland",1.255318,0
+25,"Taiwan",20,0
+25,"Thailand",23.9,344
+25,"United Arab Emirates",0,567
+25,"United Kingdom",190,30.11
+25,"United States",2445.88,16
+50,"Australia",93.432068,0
+50,"Austria",3.458667,0
+50,"Belgium",187.058124,0
+50,"Brazil",0,546.41016
+50,"Canada",146.349,0
+50,"Chile",0,260.281186
+50,"Colombia",0,539.309295
+50,"Cyprus",0,11.768247
+50,"Denmark",0,0.549039
+50,"France",58.616306,0
+50,"Germany",4.220992,0
+50,"Hungary",586.988135,0
+50,"Iceland",300,200
+50,"India",0,315.616677
+50,"Ireland",0,2036.236423
+50,"Italy",0,46.238132
+50,"Japan",136.489843,0
+50,"Korea",2604.458951,0
+50,"Kuwait",0,1095.572646
+50,"Netherlands",0,0.001568
+50,"New Zealand",0,0.54306
+50,"Norway",0.299897,0
+50,"Poland",207.9802,0
+50,"Portugal",22.442656,0
+50,"Romania",0,3069.497876
+50,"Saudi Arabia",0,0.299897
+50,"Spain",0,271.828896
+50,"Sweden",33.91295,0
+50,"Switzerland",400.387605,0
+50,"Taiwan",0,130
+50,"Thailand",120,0
+50,"United Arab Emirates",0,1800
+50,"United Kingdom",300,0
+50,"United States",1600,0
+75,"Australia",87.263724,343.759453
+75,"Austria",2.349112,0
+75,"Belgium",45.999593,0
+75,"Brazil",0,2573.830958
+75,"Canada",140.853583,0
+75,"Chile",0,326.285394
+75,"Colombia",0,586.866583
+75,"Cyprus",0,1.233692
+75,"Denmark",73.451287,0
+75,"France",184.288339,0
+75,"Germany",3308.855279,0
+75,"Hungary",0,330.369147
+75,"Iceland",60,120.9
+75,"India",0,2704.173002
+75,"Ireland",40.9,70.009
+75,"Italy",1397.467126,0
+75,"Japan",2880.751774,0
+75,"Korea",0,3.947605
+75,"Kuwait",0,302.540263
+75,"Netherlands",284.400704,0
+75,"New Zealand",1.551034,0
+75,"Norway",73.931976,0
+75,"Poland",0,3376.022477
+75,"Portugal",45,12
+75,"Romania",0,189.810215
+75,"Saudi Arabia",0,7.397882
+75,"Spain",0,285.026867
+75,"Sweden",10.679246,35.282669
+75,"Switzerland",37.875588,0
+75,"Taiwan",0,2.561779
+75,"Thailand",0,792.655526
+75,"United Arab Emirates",0,1.579978
+75,"United Kingdom",385.163028,0
+75,"United States",3392.57437,0
+75,"South Africa",0,660
+
+100,"Australia",115.957719,0
+100,"Austria",41.623882,0
+100,"Belgium",32.342289,0
+100,"Brazil",0,1106.359401
+100,"Canada",356.912625,0
+100,"Chile",0,143.596162
+100,"Colombia",0,1899.134643
+100,"Cyprus",0,5.189473
+100,"Denmark",37.463179,0
+100,"France",526.5255,0
+100,"Germany",350.983095,0
+100,"Hungary",0,29.607289
+100,"Iceland",18.99,445
+100,"India",0,1141.656334
+100,"Ireland",7.976318,171.345603
+100,"Italy",34.877961,0.092408
+100,"Japan",1310.812373,0
+100,"Korea",0,444.810035
+100,"Kuwait",0,0.959746
+100,"Netherlands",106.331706,0
+100,"New Zealand",45.776,76.998
+100,"Norway",127.714893,0
+100,"Poland",0,632.761107
+100,"Portugal",2.738129,0
+100,"Romania",0,223.359836
+100,"Saudi Arabia",0,707.503988
+100,"Spain",59.684269,0
+100,"Sweden",68.464897,0
+100,"Switzerland",129.14668,0.184816
+100,"Taiwan",0,779.075653
+100,"Thailand",0,1792.837766
+100,"United Arab Emirates",0,0.628944
+100,"United Kingdom",725.259608,0
+100,"United States",6008.166308,0
+100,"South Africa",0,778.99
+
+
