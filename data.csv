@@ -1,26 +1,169 @@
-Slider,x,first,second,third
-0,1,55,20,25
-0,2,65,15,20
-0,3,80,10,10
-0,4,88,7,5
-0,5,93,5,2
-25,1,45,25,30
-25,2,46,27,27
-25,3,65,15,20
-25,4,72,13,15
-25,5,80,10,10
-50,1,35,30,35
-50,2,47,30,23
-50,3,53,30,17
-50,4,57,30,13
-50,5,60,30,10
-75,1,25,30,45
-75,2,38,37,25
-75,3,39,38,23
-75,4,39,39,22
-75,5,40,40,20
-100,1,22,23,55
-100,2,20,20,60
-100,3,10,15,75
-100,4,3,12,85
-100,5,2,8,90
+variable,group,value
+Australia,Brazil,10.843457
+Australia,Chile,11.512013
+Australia,Colombia,10.565816
+Australia,India,982.075862
+Australia,Korea,7.599604
+Australia,Poland,0.003046
+Australia,Saudi Arabia,0.007575
+Australia,South Africa,240.893012
+Australia,Thailand,1162.746092
+Austria,Thailand,73.958508
+Austria,South Africa,29.251443
+Austria,Saudi Arabia,2.145296
+Austria,Poland,33.184327
+Austria,Kuwait,0.12419
+Austria,Colombia,20.231447
+Austria,India,162.421492
+Austria,Chile,6.426788
+Austria,Brazil,52.226511
+Austria,Korea,111.526265
+Belgium,Saudi Arabia,0.009103
+Belgium,Thailand,53.295601
+Belgium,South Africa,340.304159
+Belgium,Poland,800.330632
+Belgium,Brazil,212.928735
+Belgium,India,561.481858
+Belgium,Colombia,102.867692
+Belgium,Chile,59.86704
+Belgium,Korea,0.052608
+Canada,Brazil,344.019962
+Canada,Chile,106.773387
+Canada,Colombia,671.086359
+Canada,India,3659.444746
+Canada,Korea,3.865408
+Canada,Kuwait,0.001568
+Canada,Poland,1307.586093
+Canada,Saudi Arabia,0.016166
+Canada,South Africa,370.099631
+Canada,Thailand,836.611055
+Denmark,South Africa,411.760384
+Denmark,India,2004.368952
+Denmark,Thailand,489.489466
+Denmark,Chile,33.407149
+Denmark,Brazil,3.18458
+Denmark,Colombia,3.146117
+Finland,Brazil,25.810862
+Finland,Chile,9.423678
+Finland,Colombia,23.761728
+Finland,India,182.512666
+Finland,Poland,12.233233
+Finland,Saudi Arabia,0.03871
+Finland,South Africa,198.796278
+Finland,Thailand,126.195858
+France,Thailand,1049.660923
+France,South Africa,1901.701859
+France,Saudi Arabia,43.705887
+France,Poland,2005.432347
+France,Kuwait,21.944819
+France,Chile,423.553789
+France,India,4139.07437
+France,Colombia,1680.107102
+France,Brazil,3297.628513
+France,Korea,148.847642
+Germany,Poland,17230.746024
+Germany,South Africa,1784.147995
+Germany,Thailand,1702.275036
+Germany,Saudi Arabia,14.096654
+Germany,Kuwait,5.859569
+Germany,Chile,1365.472828
+Germany,India,18017.983208
+Germany,Colombia,1238.911524
+Germany,Brazil,4063.216247
+Germany,Korea,691.32775
+Italy,Thailand,34.627069
+Italy,South Africa,106.916806
+Italy,Saudi Arabia,0.277701
+Italy,Poland,57.102621
+Italy,Kuwait,0.32791
+Italy,India,1237.117872
+Italy,Colombia,306.112843
+Italy,Chile,169.818458
+Italy,Brazil,1843.85941
+Italy,Korea,7.32436
+Japan,Poland,116.688443
+Japan,Thailand,35437.690727
+Japan,South Africa,1176.312073
+Japan,Saudi Arabia,373.261027
+Japan,Kuwait,4.397148
+Japan,Chile,703.444054
+Japan,India,48830.067295
+Japan,Brazil,10406.029105
+Japan,Korea,13029.452754
+Japan,Colombia,1414.487282
+Korea,Brazil,204.47235
+Korea,Chile,43.598915
+Korea,Colombia,85.66255
+Korea,India,838.979022
+Korea,Saudi Arabia,0.167923
+Korea,South Africa,20.345015
+Korea,Thailand,105.821945
+Kuwait,India,893.15741
+Kuwait,Thailand,260.887969
+Netherlands,Thailand,129.993723
+Netherlands,Saudi Arabia,0.227521
+Netherlands,Kuwait,0.060454
+Netherlands,Korea,0.491792
+Netherlands,South Africa,840.526986
+Netherlands,Colombia,642.223602
+Netherlands,India,6977.708986
+Netherlands,Brazil,87.040487
+Netherlands,Poland,14.269465
+Netherlands,Chile,127.976174
+Norway,South Africa,689.555304
+Norway,Poland,2.50479
+Norway,India,2147.93325
+Norway,Thailand,136.378534
+Norway,Chile,56.575551
+Norway,Brazil,1070.847764
+Norway,Colombia,299.650983
+Norway,Saudi Arabia,0.195375
+Saudi Arabia,Brazil,191.647004
+Saudi Arabia,India,759.651342
+Saudi Arabia,Korea,134.511154
+Saudi Arabia,Thailand,156.480316
+Spain,Kuwait,0.020232
+Spain,Thailand,7.072193
+Spain,South Africa,19.495582
+Spain,Saudi Arabia,0.014214
+Spain,Poland,88.269401
+Spain,Korea,0.685941
+Spain,Colombia,1066.811913
+Spain,Chile,211.911806
+Spain,Brazil,312.007477
+Spain,India,271.820536
+Sweden,Brazil,26.653699
+Sweden,Chile,177.465428
+Sweden,Colombia,309.592487
+Sweden,India,3827.796549
+Sweden,Kuwait,11.228374
+Sweden,Poland,94.17627
+Sweden,South Africa,1416.545325
+Sweden,Thailand,184.052641
+Switzerland,South Africa,273.01689
+Switzerland,Poland,3.141751
+Switzerland,Korea,0.249214
+Switzerland,Thailand,143.029761
+Switzerland,Colombia,291.50981
+Switzerland,Chile,87.963745
+Switzerland,Brazil,95.419283
+Switzerland,India,1839.499003
+United Kingdom,Thailand,434.207101
+United Kingdom,Saudi Arabia,0.67115
+United Kingdom,Poland,209.349961
+United Kingdom,Korea,3.243556
+United Kingdom,South Africa,1862.114265
+United Kingdom,Colombia,215.435718
+United Kingdom,Chile,29.636288
+United Kingdom,Brazil,713.312502
+United Kingdom,India,19921.976117
+United States,South Africa,6678.78043
+United States,Brazil,13548.34114
+United States,Chile,3690.68103
+United States,Colombia,17104.240812
+United States,India,16529.832819
+United States,Korea,11154.361995
+United States,Kuwait,7727.422143
+United States,Poland,2508.547257
+United States,Saudi Arabia,4440.013519
+United States,Thailand,6495.636611
