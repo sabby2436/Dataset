@@ -1,0 +1,18 @@
+[
+    {
+        "id" : 1,
+        "name" : "Change attribute values for existing products",
+        "para" : "Pick specific attributes to generate an Excel template. The template can be edited and the changes uploaded. Alternatively, you may export the search results, make changes, and upload the spreadsheet using the button below."
+    },
+    {
+        "id" : 2,
+        "name" : "Create new products",
+        "para" : "Download an appropriate blank template for a specific category. Once the template is filled, it can be uploaded to add new products to the catalog. New ASINs will be generated, variation families will be set up, or ASINs will be added to existing variation families."
+    
+    },
+    {
+        "id" : 3,
+        "name" : "Other tasks",
+        "para" : "Select appropriate template from download tasks. Then select the upload task and make catalog change through uploading filled template."
+    }
+]
